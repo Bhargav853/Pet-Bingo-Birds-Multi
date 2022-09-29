@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'PetBingoBirds'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1FD336DF70DA40CFBB658177EDAEB458 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_875589D41DAB4A4FBCAB37600BB0E633 }}
           package: .
